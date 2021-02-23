@@ -1,8 +1,9 @@
 # nuxt-koa-upload
 
-> nuxt + koa + file upload
+> 使用nuxt+koa实现大文件/分开上传，断点续传功能
 
-# 技术：nuxt, koa, element, webworker, spark-md5， 大文件（分开）上传, 断点续传
+# 技术：
+nuxt, koa, element, webworker, spark-md5， 大文件（分开）上传, 断点续传
 
 # 参考框架：
 https://github.com/nuxt-community/koa-template
